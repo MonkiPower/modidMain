@@ -1,0 +1,17 @@
+{
+  "item.modid.blacksmith_hammer": "Молот кузнеца",
+  "item.modid.steel_ring": "Стальное кольцо",
+  "item.modid.steel_plate": "Стальная пластина",
+  "item.modid.alkaline_powder": "Щелочной порошок",
+  "item.modid.gambeson_helmet": "Стёганый шлем",
+  "item.modid.gambeson_chestplate": "Стёганый нагрудник",
+  "item.modid.gambeson_leggings": "Стёганые поножи",
+  "item.modid.gambeson_boots": "Стёганые ботинки",
+  "block.modid.custom_crafting_table": "Улучшенный верстак",
+  "container.modid.custom_crafting_table": "Улучшенный верстак",
+  "container.modid.custom_furnace": "Печь для плавки",
+  "item.modid.tanned_leather": "Дублёная кожа",
+  "block.modid.alkaline_powder_block": "Блок щелочи",
+  "itemGroup.modid.smithing": "Кузнечные предметы",
+  "itemGroup.modid.ores": "Руды"
+}

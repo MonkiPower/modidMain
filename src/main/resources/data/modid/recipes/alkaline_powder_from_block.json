@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modid:alkaline_powder_block"
+    }
+  ],
+  "result": {
+    "item": "modid:alkaline_powder",
+    "count": 4
+  }
+}

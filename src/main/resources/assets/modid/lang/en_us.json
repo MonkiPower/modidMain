@@ -1,0 +1,17 @@
+{
+  "item.modid.blacksmith_hammer": "Blacksmith Hammer",
+  "item.modid.steel_ring": "Steel Ring",
+  "item.modid.steel_plate": "Steel Plate",
+  "item.modid.alkaline_powder": "Alkaline Powder",
+  "item.modid.gambeson_helmet": "Gambeson Helmet",
+  "item.modid.gambeson_chestplate": "Gambeson Chestplate",
+  "item.modid.gambeson_leggings": "Gambeson Leggings",
+  "item.modid.gambeson_boots": "Gambeson Boots",
+  "block.modid.custom_crafting_table": "Custom Crafting Table",
+  "container.modid.custom_crafting_table": "Custom Crafting Table",
+  "container.modid.custom_furnace": "Custom Furnace",
+  "item.modid.tanned_leather": "Tanned Leather",
+  "block.modid.alkaline_powder_block": "Alkaline Block",
+  "itemGroup.modid.smithing": "Smithing Items",
+  "itemGroup.modid.ores": "Ores"
+}

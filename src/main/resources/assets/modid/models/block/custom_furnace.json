@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modid:block/custom_furnace_bottom",
+    "up": "modid:block/custom_furnace_top",
+    "north": "modid:block/custom_furnace_front",
+    "east": "modid:block/custom_furnace_side",
+    "south": "modid:block/custom_furnace_back",
+    "west": "modid:block/custom_furnace_side"
+  }
+}

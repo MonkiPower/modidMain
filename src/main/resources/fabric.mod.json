@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "modid",
+	"version": "${version}",
+	"name": "Example Mod",
+	"description": "",
+	"authors": [],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/modid/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ExampleMod"
+		],
+		"client": [
+			"com.example.client.ClientMod"
+		],
+		"fabric-datagen": [
+			"com.example.world.ModWorldGenerator"
+		]
+	},
+	"mixins": [
+		"modid.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": ">=1.20.2"
+	}
+}
