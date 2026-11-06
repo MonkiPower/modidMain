@@ -16,9 +16,9 @@
 
 | Компонент | Версия |
 |-----------|--------|
-| Minecraft | 1.20.1 |
+| Minecraft | 1.20.2 |
 | Загрузчик | Forge 47.2.0 |
-| Java | 17 (JDK 17) |
+| Java | 21 (JDK 21) |
 | Сборка | Gradle (ForgeGradle 6), `gradlew build` |
 
 Зависимостей сверх Forge нет.
